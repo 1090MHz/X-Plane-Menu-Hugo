@@ -2,7 +2,7 @@ baseURL = 'https://1090MHz.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
-theme = "AltitudeDark"
+theme = 'AltitudeDark'
 
 # Enable section-based menus
 sectionPagesMenu = "main"
