@@ -36,4 +36,3 @@ repos:
     hooks:
       - id: csslint
         files: ^(?!.*tailwind\.css$).*\.css$
-
