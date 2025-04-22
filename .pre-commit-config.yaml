@@ -24,7 +24,7 @@ repos:
 
   # Prettier for formatting CSS, HTML, JS, JSON, and Markdown
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: v2.3.0
+    rev: v3.5.3
     hooks:
       - id: prettier
         files: \.(css|html|js|json|md)$
