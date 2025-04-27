@@ -1,6 +1,6 @@
 # X-Plane-Menu-Hugo
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/1090MHz/X-Plane-Menu-Hugo/build.yml)](https://github.com/1090MHz/X-Plane-Menu-Hugo/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/1090MHz/X-Plane-Menu-Hugo/hugo.yaml?branch=main)](https://github.com/1090MHz/X-Plane-Menu-Hugo/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
