@@ -1,5 +1,5 @@
 [build]
-  command = "hugo"
+  command = "npm ci --prefix themes/AltitudeDark --ignore-scripts && npm run build --prefix themes/AltitudeDark && hugo --gc --minify"
   publish = "public"
 
 [build.environment]
